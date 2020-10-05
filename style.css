@@ -1,0 +1,22 @@
+
+body {
+  background: url('https://images.unsplash.com/photo-1589178208772-6f239b7652e9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80') rgba(0, 0, 0, 0.6);
+  background-size: cover;
+  background-blend-mode: overlay;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  color: white;
+}
+
+.main {
+  height: 100vh;
+  margin-top: -56px;
+}
+
+.main img {
+  width: 60px;
+}
+
+#contact form {
+  max-width: 600px;
+}
